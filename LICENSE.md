@@ -1,4 +1,4 @@
-# 
+# Ultime AI Object Detection with TensorFlow.js préréglages. Avec reconnaissance d'images et réseaux de neurones — optimisé pour des performances maximales.
 
 
 
